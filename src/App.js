@@ -9,7 +9,7 @@ function App() {
     <Container className="text-center pt-5">
       <Navbar className="color-white" />
       <h1 className="m-4">React with Bootstrap and Sass</h1>
-      <Button variant="secondary">Click Me</Button>
+      <Button variant="secondary">Submit</Button>
     </Container>
   );
 }
