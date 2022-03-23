@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #181818;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 35px;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-family: 'Times New Roman', Times, serif;
+}
+/*# sourceMappingURL=Navbar.css.map */
